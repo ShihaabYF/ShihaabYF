@@ -8,7 +8,8 @@
   - **second project**:
     - [flex-odin-project](https://shihaabyf.github.io/flex-odin-project/) 
     - [Adventure-bikes](https://shihaabyf.github.io/Adventure-bikes/) ___*Under construction*
-
+  - **third-project**:
+    - [Rock-Paper-Scissors](https://shihaabyf.github.io/RockPaperScissors/)__*It's a Game*
 <!---
 ShihaabYF/ShihaabYF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
